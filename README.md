@@ -17,7 +17,7 @@
  
  ## References
  
-- [1] M. Aizenman, Geometric analysis of ϕ^4 fields and Ising models, Comm. Math. Phys. 86 (1982), 1–48.
+- [[1] M. Aizenman, Geometric analysis of ϕ^4 fields and Ising models, Comm. Math. Phys. 86 (1982), 1–48.](https://github.com/anonymousr007/quantum-yang-mills-theory/blob/main/References/1103921614.pdf)
 - [2] T. Balaban, Ultraviolet stability of three-dimensional lattice pure gauge field theories, Comm. Math. Phys. 102 (1985), 255–275.
 - [3] T. Balaban, Renormalization group approach to lattice gauge field theories. I: generation of effective actions in a small field approximation and a coupling constant renormalization in 4D, Comm. Math. Phys. 109 (1987), 249–301.
 - [4] T. Balaban, D. Brydges, J. Imbrie, and A. Jaffe, The mass gap for Higgs models on a unit lattice, Ann. Physics 158 (1984), 281–319.
