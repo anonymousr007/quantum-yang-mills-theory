@@ -17,8 +17,12 @@
  
  ## References
  
-- [[1] M. Aizenman, Geometric analysis of ϕ^4 fields and Ising models, Comm. Math. Phys. 86 (1982), 1–48.](https://github.com/anonymousr007/quantum-yang-mills-theory/blob/main/References/1103921614.pdf)
-- [[2] T. Balaban, Ultraviolet stability of three-dimensional lattice pure gauge field theories, Comm. Math. Phys. 102 (1985), 255–275.](https://github.com/anonymousr007/quantum-yang-mills-theory/blob/main/References/1104114382.pdf)
+ | S.No. | Topic | Author's Name |
+ | ----- | ----- | ------------- |
+ | 1.    | [Geometric analysis of ϕ^4 fields and Ising models, Comm. Math. Phys. 86 (1982), 1–48.](https://github.com/anonymousr007/quantum-yang-mills-theory/blob/main/References/1103921614.pdf) | M. Aizenman |
+ | 2.    | [Ultraviolet stability of three-dimensional lattice pure gauge field theories, Comm. Math. Phys. 102 (1985), 255–275.](https://github.com/anonymousr007/quantum-yang-mills-theory/blob/main/References/1104114382.pdf) | T. Balaban |
+ 
+ 
 - [3] T. Balaban, Renormalization group approach to lattice gauge field theories. I: generation of effective actions in a small field approximation and a coupling constant renormalization in 4D, Comm. Math. Phys. 109 (1987), 249–301.
 - [4] T. Balaban, D. Brydges, J. Imbrie, and A. Jaffe, The mass gap for Higgs models on a unit lattice, Ann. Physics 158 (1984), 281–319.
 - [5] C. Becchi, A. Rouet, and R. Stora, Renormalization of gauge theories, Ann. Phys. 98 (1976), 287–321.
